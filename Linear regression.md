@@ -20,7 +20,7 @@ Mdel:  $fw、b\left(x\right)=wx+b$
 
 $w,b$ : parameters/coefficients/weights
 
-$\hat{y}$ =$fw、b\left(x^{({i})}\right)$  = $wx^{({i})}+b$ 
+$\hat{y} =fw、b\left(x^{({i})}\right)  = wx^{({i})}+b$ 
 
 $J\left(w,b\right) =  \frac{1}{2m}\underset{i=1}{\overset{m}{\sum}}\left(\hat{y}^{(i)}-y^{(i)}\right)^2$  ----- Squared error cost function
 
