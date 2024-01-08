@@ -67,9 +67,9 @@ Linear regression model : $f_w,_b\left(x\right) = wx+b$
 
 Cost function : $J\left(w,b\right) =  \frac{1}{2m}\underset{i=1}{\overset{m}{\sum}}\left(f_w,_b\left(x^{({i})}\right)-y^{(i)}\right)^2$ 
 
-Gradient descent algrithm:
+Gradient descent algrithm: 
 
-	repeat until convergence 
+	repeat until convergence:
 
 1. $w = w -\alpha\frac{\delta}{\delta w}J\left(w,b\right)= w -\alpha\frac{1}{m}\underset{i=1}{\overset{m}{\sum}}\left(f_w,_b\left(x^{({i})}\right)-y^{(i)}\right)    x^{(i)}$
 2. $b = b -\alpha\frac{\delta}{\delta b}J\left(w,b\right) =  b -\alpha\frac{1}{m}\underset{i=1}{\overset{m}{\sum}}\left(f_w,_b\left(x^{({i})}\right)-y^{(i)}\right)$
