@@ -48,7 +48,7 @@ $tmp\_w = w -\alpha\frac{\delta}{\delta w}J\left(w,b\right)$
 
 $tmp\_b = b -\alpha\frac{\delta}{\delta b}J\left(w,b\right)$
 
- ![截图](../Linear%20regression/18aa8047abc42fc5db189f1525e9b637.png)
+ ![image](https://github.com/hemengfei319/Machine-learning/blob/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%20Linear%20Regression/img/18aa8047abc42fc5db189f1525e9b637.png)
 
 ## Learing Rate
 
@@ -59,7 +59,7 @@ if $\alpha$ is too large Gradient descent may:
 - Overshoot,never reach minimum
 - Fail to converage,diverge
 
-![截图](../Linear%20regression/2a0194a93e3d4199ff6be298ea058c19.png)
+![image](https://github.com/hemengfei319/Machine-learning/blob/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%20Linear%20Regression/img/2a0194a93e3d4199ff6be298ea058c19.png)
 
 ## Gradient Descent for Linear Regression
 
